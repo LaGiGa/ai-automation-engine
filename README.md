@@ -1,4 +1,4 @@
-# Projeto 02 — AI Automation Engine (Pipeline de Extração Estruturada)
+#AI Automation Engine (Pipeline de Extração Estruturada)
 
 > Pipeline corporativo de automação de documentos e auditoria fiscal (Backoffice / FinOps / LegalTech) com extração estruturada de alta precisão via **Gemini 3.8 Flash** & **OpenAI API** (usando **Zod** + **JSON Schema**), sanitização e validação matemática de totais de itens, persistência em PostgreSQL (**Supabase JSONB**) e despacho resiliente de **Webhooks** com retries exponenciais.
 
