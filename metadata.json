@@ -1,0 +1,6 @@
+{
+  "name": "AI Automation Engine",
+  "description": "Pipeline corporativo de extração estruturada de documentos e notas fiscais com Gemini/OpenAI (Zod Schema), validação matemática de totais, persistência JSONB no Supabase e dispatcher de webhooks com retries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
