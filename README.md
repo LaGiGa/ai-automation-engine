@@ -139,7 +139,7 @@ create index idx_processing_jobs_extracted_data_gin on public.processing_jobs us
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/SEU_USUARIO/ai-automation-engine.git
+git clone https://github.com/LaGiGa/ai-automation-engine.git
 cd ai-automation-engine
 ```
 
